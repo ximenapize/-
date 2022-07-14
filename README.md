@@ -1,4 +1,4 @@
 # EST2
 
 
-Reporte final : [link](https://rpubs.com/ximenapize_/918371)
+Reporte final : [link](http://rpubs.com/ximenapize_/923807)
